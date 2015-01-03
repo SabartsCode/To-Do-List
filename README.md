@@ -1,4 +1,6 @@
 To-Do-List
 ==========
 
-A to do list to get things done
+With this to do list you can get things done.
+
+Work In progress
